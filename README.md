@@ -1,4 +1,4 @@
-Welcome 👋
+Weave While True 🪄
 
 <p align="center"><a title="Visit richardreinisch.com" href="https://richardreinisch.com" target="_blank"><img width="1920" height="1280" alt="Dipl.-FW, Ing. Richard Reinisch" src="https://github.com/user-attachments/assets/4bccd97f-4ba6-4218-94c7-3c6754d8d537" /></a></p>
 
