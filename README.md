@@ -1,6 +1,19 @@
-## Hi there 👋
+Welcome 👋
 
+<p align="center"><a title="Visit richardreinisch.com" href="https://richardreinisch.com" target="_blank"><img width="1920" height="1280" alt="Dipl.-FW, Ing. Richard Reinisch" src="https://github.com/user-attachments/assets/4bccd97f-4ba6-4218-94c7-3c6754d8d537" /></a></p>
 
+I’m Richard Reinisch – passionate about technology, efficiency, and creating solutions that matter.
+
+💡 My focus:
+
+* Fast, simple, reliable solutions without unnecessary complexity
+* Using stable, proven technologies where they fit best
+* AI solutions running locally on consumer hardware
+* Always improving, always learning, always taking responsibility
+
+`I believe that technology should serve people – every user matters, every detail matters, the whole picture matters.`
+
+🔗 Explore my projects to see how I combine software development, AI, 3D, and media design into meaningful innovations.
 
 <p align="center"><a href="https://github.com/richardreinisch/flavia-solva-3d" target="_blank"><img width="1200" height="627" alt="Flavia-Solva-3D" src="https://github.com/user-attachments/assets/d0f61c8d-1c3d-42dc-bdae-5ac853e1b441" /></a></p>
 
