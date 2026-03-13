@@ -15,6 +15,8 @@ I’m Richard Reinisch – passionate about technology, efficiency, and creating
 
 🔗 Explore my projects to see how I combine software development, AI, 3D, and media design into meaningful innovations.
 
+<p align="center"><a href="https://github.com/richardreinisch/the-roman-art-of-design-patterns" target="_blank"><img width="1536" height="1024" alt="The Roman Art of Design Patterns" src="https://github.com/richardreinisch/the-roman-art-of-design-patterns/blob/main/the-roman-art-of-design-patterns.webp" /></a></p>
+
 <p align="center"><a href="https://github.com/richardreinisch/flavia-solva-3d" target="_blank"><img width="1200" height="627" alt="Flavia-Solva-3D" src="https://github.com/user-attachments/assets/d0f61c8d-1c3d-42dc-bdae-5ac853e1b441" /></a></p>
 
 <p align="center"><a href="https://github.com/richardreinisch/PCG_Building" target="_blank"><img width="1200" height="627" alt="PCG-Building" src="https://github.com/user-attachments/assets/465e1c9c-30a0-44dc-bfe5-e1040ac842b0" /></a></p>
