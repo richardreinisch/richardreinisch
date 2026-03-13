@@ -43,4 +43,3 @@ I’m Richard Reinisch – passionate about technology, efficiency, and creating
 
 <p align="center"><a href="https://github.com/richardreinisch/watch-your-visitors" target="_blank"><img width="1200" height="627" alt="Watch-Your-Visitors" src="https://github.com/user-attachments/assets/99f84f59-c95d-4d31-bf67-ea6f4770fb32" /></a></p>
 
-<p align="center"><a href="https://github.com/richardreinisch/website-screenshot" target="_blank"><img width="1200" height="627" alt="Website-Screenshot" src="https://github.com/user-attachments/assets/b5b9184d-7403-4463-bb46-afdab4f8193c" /></a></p>
