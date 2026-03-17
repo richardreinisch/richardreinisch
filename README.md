@@ -17,6 +17,8 @@ I’m Richard Reinisch – passionate about technology, efficiency, and creating
 
 <p align="center"><a href="https://github.com/richardreinisch/the-roman-art-of-design-patterns" target="_blank"><img width="1536" height="1024" alt="The Roman Art of Design Patterns" src="https://github.com/richardreinisch/the-roman-art-of-design-patterns/blob/main/the-roman-art-of-design-patterns.webp" /></a></p>
 
+<p align="center"><a href="https://github.com/richardreinisch/wastinator" target="_blank"><img width="1920" height="1080" alt="Wastinator - Trash Day Reminder" src="https://github.com/richardreinisch/wastinator/raw/main/wastinator.jpg" /></a></p>
+
 <p align="center"><a href="https://github.com/richardreinisch/flavia-solva-3d" target="_blank"><img width="1200" height="627" alt="Flavia-Solva-3D" src="https://github.com/user-attachments/assets/d0f61c8d-1c3d-42dc-bdae-5ac853e1b441" /></a></p>
 
 <p align="center"><a href="https://github.com/richardreinisch/PCG_Building" target="_blank"><img width="1200" height="627" alt="PCG-Building" src="https://github.com/user-attachments/assets/465e1c9c-30a0-44dc-bfe5-e1040ac842b0" /></a></p>
